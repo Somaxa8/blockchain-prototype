@@ -1,4 +1,4 @@
-# Blockchain prototype made in Node with Typescript
+# Blockchain for ChamoCoins prototype made in Node with Typescript
 
 Install dependencies:
 > npm install
